@@ -582,7 +582,7 @@ Logic nya begini SUID + execute permision diwakili dengan s kecil dan  SUID + no
 
 ## SGID Permisison
 
-![Alt text](images/c4.jpg.webp)
+![Alt text](images/4.jpg.webp)
 
 
 SGID (Set Group ID up on execution) adalah special permission yang diberikan untuk file/folder pada linux.
