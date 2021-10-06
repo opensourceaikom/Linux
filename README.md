@@ -1,3 +1,6 @@
+
+![Alt text](images/linux.png)
+
 The **Linux Foundation** is a nonprofit organization that sponsors the work of Linux creator Linus Torvalds. It was founded in 2000 and its mission is to promote, protect, and advance Linux. The Linux Foundation is supported by leading technology companies and thousands of individual members from around the world and marshalls the resources of its members and the open source development community to ensure that Linux remains free and technically advanced.
 
 ## Sejarah Linux
